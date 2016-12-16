@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
 /**
- * Name: Mr. Hardman
- * Teacher: Mr. Hardman
- * Assignment Demo, Program #1
- * Date Last Modified: 11/21/2016
+ * Jasmyn Stansfield
+ * Mr. Hardman
+ * Assignment 6, Program 2
+ * December 16, 2016
  */
 
 /**
